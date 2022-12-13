@@ -5,3 +5,4 @@ a[1]=10
 for(i=1;i<a.length;i++){
     console.log( a);
 }
+lokesh1 
